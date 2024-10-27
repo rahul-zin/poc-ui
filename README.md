@@ -10,8 +10,5 @@ Hey there! This project is a proof of concept showcasing how to customize themes
 ## 📸 WIP Screenshot
 
 Here’s a sneak peek at what we’ve got so far! 🖼️
-
-
-![WIP Screenshot](https://d1qbqkkh49kht1.cloudfront.net/102f82830789d54d20933e605d882f12.png)
-
+<img src="./media/images/capture.png" alt="image_name png" width="500"/>  
 
