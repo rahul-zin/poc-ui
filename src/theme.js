@@ -17,6 +17,7 @@ const globalTheme = {
 export const theme = createTheme(globalTheme, {
   components: {
     MuiButton: {
+      // Below is just an example of adding new variants ideally we should just modify styles on existing for e.g outlined, contained variant and use color for primary, secondary colors
       variants: [
         {
           props: { variant: 'primary' }, // Define the custom variant name
